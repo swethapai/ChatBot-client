@@ -28,6 +28,40 @@
   color: #61dafb;
 }
 
+#space {
+  height: 150px;
+}
+
+#menu {
+  padding: 30px;
+  font-size: 24px;
+}
+
+#menu_item {
+  padding: 5px;
+
+}
+
+#item {
+  /*color: #b30000;*/
+  color: gray;
+  padding: 10px;
+  text-decoration: none;
+}
+
+#item:hover {
+  /*color: #b30000;*/
+  color: #b30000;
+  /*text-decoration: underline solid black;*/
+
+}
+
+#red {
+  color: #b30000;
+  padding: 10px;
+  /*font-weight: bold;*/
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
